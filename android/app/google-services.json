@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521122897325",
+    "firebase_url": "https://newrecyclerviewapp.firebaseio.com",
+    "project_id": "newrecyclerviewapp",
+    "storage_bucket": "newrecyclerviewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521122897325:android:756c52b5a2c16ec43d1524",
+        "android_client_info": {
+          "package_name": "com.bism.weight_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521122897325-v0qtsvhqj5i0980eprspmlens1fnv803.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomMJ_RSHy8HOWfVJvwB4d1Ek6jXmR8Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521122897325-v0qtsvhqj5i0980eprspmlens1fnv803.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
